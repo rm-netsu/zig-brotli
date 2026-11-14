@@ -1,0 +1,7 @@
+.zig-cache/
+zig-out/
+*.br
+
+# compiled validation harnesses (build from .c against the official library)
+scripts/flush_harness
+scripts/dec_prefix
